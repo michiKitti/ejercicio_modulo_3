@@ -1,3 +1,11 @@
+"""
+Módulo principal del proyecto 'Ejercicio Módulo 3'.
+
+Autor: [Tu nombre]
+Descripción: Este archivo ejecuta la lógica principal del programa y conecta los módulos
+de la carpeta 'ejercicios'.
+"""
+
 # This is a sample Python script.
 
 # Press Ctrl+F5 to execute it or replace it with your code.

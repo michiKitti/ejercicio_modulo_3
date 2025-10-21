@@ -18,6 +18,5 @@ Este repositorio contiene el desarrollo de los **Ejercicios del Módulo 3** de P
 ## 🚀 Cómo ejecutar
 
 ```bash
-.venv\Scripts\Activate
-uv run pytest
-uv run ruff check .
+.venv\Scripts\Activateuv
+uv run ruff check .  
