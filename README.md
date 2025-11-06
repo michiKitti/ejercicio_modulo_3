@@ -1,22 +1,31 @@
-# 🐍 Proyecto Módulo 3 - Python (SENA ADSO)
+# 📝 Módulo 3 — Colección de Ejercicios en Python  
+**Dependencias:** uv · rich · pytest · ruff
 
-Este repositorio contiene el desarrollo de los **Ejercicios del Módulo 3** de Python, correspondiente al programa de **Tecnólogo en Análisis y Desarrollo de Software**.
+Ejercicios en Python organizados por bloques temáticos: funciones, programación funcional y manejo de archivos.  
+Trabajo limpio, modular, probado y con prácticas profesionales.
 
-## 📌 Contenido
+---
 
-- Bloque 1: Funciones y Modularización (Ejercicios 1–5)  
-- Bloque 2: Programación Funcional y Recursividad (Ejercicios 6–10)  
-- Bloque 3: Manejo de Archivos y Proyectos de Integración (Ejercicios 11–15)
+## 📂 Proyecto
+| Bloque       | Descripción                           | Ejercicios |
+|--------------|---------------------------------------|------------|
+| **Bloque 1** | Funciones y modularización            | 1–5        |
+| **Bloque 2** | Programación funcional y recursividad | 6–10       |
+| **Bloque 3** | Manejo de archivos (txt, csv, json)   | 11–15      |
 
-## 🛠️ Herramientas
-- Python 3.11+
-- uv → gestión de dependencias
-- ruff → verificación de estilo PEP8
-- pytest → pruebas unitarias
-- rich → interfaz de consola
+---
 
-## 🚀 Cómo ejecutar
+## 📦 Dependencias
+- **Python 3.11+**
+- **uv** (manejo de entorno y paquetes)
+- **pytest** (pruebas)
+- **ruff** (estilo y lint)
+- **rich** (salida visual mejorada en consola)
 
-```bash
-.venv\Scripts\Activateuv
-uv run ruff check .  
+---
+
+## 🚀 Ejecución rápida
+
+### Activar entorno
+```powershell
+.\.venv\Scripts\activate
